@@ -9,15 +9,18 @@ VITE_MLAUTH_CLIENT=mlauth-app-client-key
 VITE_MLAUTH_SECRET=mlauth-app-secret-key
 ```
 
-## Install dependencies, and serve.
+## Install dependencies.
 ```sh
-# install
+#npm
 npm run install
-
+#pnpm
 pnpm install
+```
 
-# serve
+## Serve.
+```sh
+# npm
 npm run dev
-
+# pnpm
 pnpm dev
 ```
