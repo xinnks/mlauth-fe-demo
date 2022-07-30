@@ -3,7 +3,7 @@ import mlAuth from 'mlauth-js'
 import Logos from './../components/logos.vue'
 
 const client = new mlAuth({
-  key: import.meta.env.VITE_MLAUTH_CLIENT,
+  client: import.meta.env.VITE_MLAUTH_CLIENT,
   secret: import.meta.env.VITE_MLAUTH_SECRET
 })
 let email = ref("")
