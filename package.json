@@ -1,6 +1,6 @@
 {
   "name": "mlauth-fe-demo",
-  "description": "Front-end mlAuth intergration example involving Vue.js",
+  "description": "Front-end mlAuth intergration example with Vue.js",
   "private": true,
   "version": "0.0.2",
   "type": "module",
@@ -9,7 +9,15 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "keywords": "mlAuth,vue,vite,planetscape,hashnode",
+  "keywords": [
+    "mlAuth",
+    "vue",
+    "vite",
+    "planetscape",
+    "hashnode",
+    "planetscale hackathon"
+  ],
+  "author": "James Sinkala <xinnks@gmail.com> (https://jamesinkala.com)",
   "dependencies": {
     "mlauth-js": "^0.2.4",
     "vue": "^3.2.37",
