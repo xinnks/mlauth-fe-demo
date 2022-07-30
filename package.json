@@ -1,6 +1,6 @@
 {
   "name": "mlauth-fe-demo",
-  "description": "Front-end mlAuth intergration example with Vue.js",
+  "description": "Front-end mlAuth integration example with Vue.js",
   "private": true,
   "version": "0.0.2",
   "type": "module",
@@ -18,8 +18,9 @@
     "planetscale hackathon"
   ],
   "author": "James Sinkala <xinnks@gmail.com> (https://jamesinkala.com)",
+  "license": "MIT",
   "dependencies": {
-    "mlauth-js": "^0.2.4",
+    "mlauth-js": "^1.0.0",
     "vue": "^3.2.37",
     "vue-router": "^4.1.3"
   },
