@@ -2,13 +2,13 @@ lockfileVersion: 5.4
 
 specifiers:
   '@vitejs/plugin-vue': ^3.0.1
-  mlauth-js: ^1.0.0
+  mlauth-js: ^1.1.0
   vite: ^3.0.3
   vue: ^3.2.37
   vue-router: ^4.1.3
 
 dependencies:
-  mlauth-js: 1.0.0
+  mlauth-js: 1.1.0
   vue: 3.2.37
   vue-router: 4.1.3_vue@3.2.37
 
@@ -372,8 +372,8 @@ packages:
     dependencies:
       sourcemap-codec: 1.4.8
 
-  /mlauth-js/1.0.0:
-    resolution: {integrity: sha512-KTJajFmGZKMLVCk9nh3aa9oWzLP8K9s5Jv+FrAiD6Ib2eaHca53rc2xnnwxUGK8ZjxNSjOjkLDpYcVyZHAotDg==}
+  /mlauth-js/1.1.0:
+    resolution: {integrity: sha512-MzhKP+TxRvXzif/5x5wIsWJt3cgFQllPfJhu/KymKDq1TBDbinIkKNIoVWFVPyUMgLbLw+jbacLIWySQl/HPZQ==}
     dependencies:
       ohmyfetch: 0.4.18
     dev: false

@@ -20,7 +20,7 @@
   "author": "James Sinkala <xinnks@gmail.com> (https://jamesinkala.com)",
   "license": "MIT",
   "dependencies": {
-    "mlauth-js": "^1.0.0",
+    "mlauth-js": "^1.1.0",
     "vue": "^3.2.37",
     "vue-router": "^4.1.3"
   },
